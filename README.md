@@ -14,7 +14,7 @@ make
 ```
 
 <p align="center">
-  <img src="src/img/snake_cli_screen.png" alt="SnakeConsole" width="838" height="690">
+  <img src="src/img/snake_cli_screen.png" alt="SnakeConsole" width="419" height="345">
 </p>
 
 To run desktop game app:
