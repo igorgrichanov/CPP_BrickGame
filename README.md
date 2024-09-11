@@ -14,7 +14,7 @@ make
 ```
 
 <p align="center">
-  <img src="src/img/snake_cli_screen.png" alt="SnakeConsole" width="800" height="400">
+  <img src="src/img/snake_cli_screen.png" alt="SnakeConsole" width="800" height="1200">
 </p>
 
 To run desktop game app:
@@ -25,7 +25,7 @@ make
 open build/desktop.app
 ```
 <p align="center">
-  <img src="src/img/snake_desktop_screen.png" alt="SnakeDesktop" width="800" height="400">
+  <img src="src/img/snake_desktop_screen.png" alt="SnakeDesktop" width="800" height="1200">
 </p>
 
 **NOTE**: to run desktop app, Qt library is required. You can download Qt from the [official website](https://www.qt.io/download-dev)
