@@ -13,7 +13,7 @@ make
 ./build/brickgame_cli
 ```
 
-![SnakeConsole](src/img/snake_cli_screen.png)
+<img src="src/img/snake_cli_screen.png" alt="SnakeConsole" width="200" height="200">
 
 To run desktop game app:
 
@@ -23,7 +23,7 @@ make
 open build/desktop.app
 ```
 
-![SnakeConsole](src/img/snake_desktop_screen.png)
+<img src="src/img/snake_desktop_screen.png" alt="SnakeDesktop" width="200" height="200">
 
 **NOTE**: to run desktop app, Qt library is required. You can download Qt from the [official website](https://www.qt.io/download-dev)
 
