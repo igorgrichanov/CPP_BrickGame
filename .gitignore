@@ -1,3 +1,10 @@
+# QT builds
+src/gui/build-desktop-Desktop_arm_darwin_generic_mach_o_64bit-Debug/*
+
+# VS Code
+.DS_Store
+**/.vscode
+
 # Prerequisites
 *.d
 
