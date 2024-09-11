@@ -72,7 +72,7 @@ User record is saved between game launches
 
 ## FSM for Snake
 
-![SnakeFSM](img/fsm_snake.png)
+![SnakeFSM](src/img/fsm_snake.png)
 
 - START_STATE – initial game state (main menu);
 - SPAWN_STATE – adding a point and placing a new apple to the game field;
